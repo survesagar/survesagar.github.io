@@ -1,35 +1,27 @@
 # Site
-name: "Pratap Patil"
-title: "Pratap Patil"
-description: "I am Java + Android developer"
+name: "ससंदर्भ इतिहासाची रेलचेल...."
+title: "ससंदर्भ इतिहासाची रेलचेल...."
+description: "ससंदर्भ इतिहासाची रेलचेल...."
 logo: 'assets/images/logo1.jpeg'
 favicon: 'assets/images/logo.png'
 # baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: email.for.signup.404@gmail.com
+email: sagarblog4@gmail.com
 
 # Authors
 authors:
-  pratap:
-    name: Pratap Patil
-    display_name: Pratap
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: email.for.signup.404@gmail.com
-    web: https://patilpratap.github.io
-    twitter: https://twitter.com/twitter
-    description: "I am a Java, Android developer"
   sagar:
     name: Sagar Surve
     display_name: Sagar
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: sagar@gmail.com
-    web: https://patilpratap.github.io
+    gravatar: d05898cbea2450fb5b101f167ccfe275
+    email: sagarblog4@gmail.com
+    web: https://survesagar.github.io
     twitter: https://twitter.com/twitter
-    description: "I am a Blogger"  
+    description: "I am a Blogger"
 
 # Plugins
 plugins:
